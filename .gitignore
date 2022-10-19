@@ -1,0 +1,15 @@
+.flattened-pom.xml
+.idea/
+target/
+*.iml
+.classpath
+.project
+.settings/
+dist/
+node/
+node_modules/
+npm-debug.log
+.vs
+*.swp
+*.bak
+.DS_Store
